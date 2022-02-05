@@ -1,0 +1,18 @@
+textarea {
+  resize: none;
+  height: 170px;
+}
+
+.icons {
+	height: 20px;
+	width: auto;
+}
+
+.pager {
+	padding-top: 20px;
+}
+
+.error {
+	color: red;
+	margin-left: 10px;
+}
