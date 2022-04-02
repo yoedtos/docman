@@ -17,4 +17,8 @@ Docman is useful to manage files in a centralized way through uploading to datab
 
 
 #### TODO List
-
+- Server side validation
+- Security layer
+	- login page
+	- roles
+- ...
